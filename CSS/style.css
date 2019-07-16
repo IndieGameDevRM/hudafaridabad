@@ -1,0 +1,13 @@
+.freespace{
+  width: 30%
+}
+.tab {position:absolute;left:50%; }
+
+.textcolor{
+  color: #f5f6fa
+}
+.rightsideform{
+  margin: 20px;
+  padding: 16px;
+  background-color: white;
+}
